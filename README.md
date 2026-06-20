@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">Hi 👋, I'm Maheshwaran P</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst — SQL, Power BI, Python & AWS</h3>
 
