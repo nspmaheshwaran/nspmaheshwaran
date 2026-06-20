@@ -33,8 +33,6 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 
-**Cloud:**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
 **Core Strengths:** Exploratory Data Analysis (EDA) · Data Cleaning & Transformation · Statistical Analysis & Storytelling · DAX & Data Modeling
 
@@ -53,9 +51,6 @@ Built an interactive Power BI dashboard analyzing socio-economic performance acr
 #### [Chennai Voter Analysis Dashboard](https://github.com/nspmaheshwaran/chennai-voter-analysis-powerbi)
 Analyzed voter demographics across Chennai constituencies, including gender distribution (~51.7% female voters) and constituency-wise concentration trends, with visualizations highlighting high/low turnout areas.
 `Power BI` `Excel`
-
-> 💡 Tip: pin these three repos to your profile (GitHub homepage → Customize your pins) so they show without scrolling.
-
 ---
 
 ### 📜 Certifications
@@ -65,19 +60,6 @@ Analyzed voter demographics across Chennai constituencies, including gender dist
 - **HP LIFE — Critical Thinking in the AI Era**
 - **NPTEL — Privacy and Security in Online Social Media (Elite)**
 - **NPTEL — Bioinformatics**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nspmaheshwaran&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nspmaheshwaran&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nspmaheshwaran&hide_border=true" height="165"/>
-</p>
 
 ---
 
