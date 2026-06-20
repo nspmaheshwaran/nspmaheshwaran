@@ -41,16 +41,18 @@
 ### 🚀 Featured Projects
 
 #### [Global Economic Indicators Analysis](https://github.com/nspmaheshwaran/Global-Economics-Insights)
-Cleaned and analyzed a 193-country economic dataset, engineered a GDP Per Capita metric, and built a 7-KPI Power BI dashboard. Ran 20+ SQL queries and validated the GDP–Life Expectancy correlation with Python hypothesis testing (Pearson, p < 0.05).
+Cleaned and analyzed a 193-country economic dataset, engineered a GDP Per Capita metric, and built a 7-KPI Power BI dashboard. Ran 20+ SQL queries and validated the GDP–Life Expectancy correlation with Python hypothesis testing (Pearson, p < 0.05).<br>
 `SQL` `Python` `Power BI`
 
 #### [Tamil Nadu District Development Index Dashboard](https://github.com/nspmaheshwaran/tamil-nadu-development-index-powerbi)
-Built an interactive Power BI dashboard analyzing socio-economic performance across all 38 districts of Tamil Nadu, using DAX and data modeling to surface top- and bottom-performing districts.
+Built an interactive Power BI dashboard analyzing socio-economic performance across all 38 districts of Tamil Nadu, using DAX and data modeling to surface top- and bottom-performing districts.<br>
 `Power BI` `Excel` `DAX`
 
 #### [Chennai Voter Analysis Dashboard](https://github.com/nspmaheshwaran/chennai-voter-analysis-powerbi)
-Analyzed voter demographics across Chennai constituencies, including gender distribution (~51.7% female voters) and constituency-wise concentration trends, with visualizations highlighting high/low turnout areas.
-`Power BI` `Excel`
+
+Analyzed voter demographics across Chennai constituencies, including gender distribution (~51.7% female voters) and constituency-wise concentration trends, with visualizations highlighting high/low turnout areas.<br>
+`Power BI` `Excel` `DAX`
+
 ---
 
 ### 📜 Certifications
